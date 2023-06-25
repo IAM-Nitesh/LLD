@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bd9b620-a04e-4a9c-80a6-0d4aca0265bd" name="Changes" comment="day9_commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lld-module-may23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_AtomicInteger/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_AtomicInteger/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_AtomicInteger/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_AtomicInteger/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_ProducerConsumerSynchronizationIssue/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_ProducerConsumerSynchronizationIssue/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_ProducerConsumerSynchronizationIssue/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_ProducerConsumer_Semaphores/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_ProducerConsumer_Semaphores/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_ProducerConsumer_Semaphores/Producer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/TimeUnit.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2Q9j5ric2Bhvqy70s1V2xe0JdEv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/niteshkumar/IdeaProjects/lld-module-may23/src/Day10_AtomicInteger",
+    "onboarding.tips.debug.path": "/Users/niteshkumar/IdeaProjects/lld-module-may23/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Day10_AtomicInteger" />
+      <recent name="$PROJECT_DIR$/src/Day10_Semaphores" />
+      <recent name="$PROJECT_DIR$/src/Day9_SynchronizedMethod" />
+      <recent name="$PROJECT_DIR$/src/Day9_Synchronised" />
+      <recent name="$PROJECT_DIR$/src/Day10_Locks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day10_AtomicInteger.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_ProducerConsumerSynchronizationIssue.Client" />
+      <module name="lld-module-may23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10_ProducerConsumerSynchronizationIssue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day10_AtomicInteger.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_AtomicInteger.Client" />
+      <module name="lld-module-may23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10_AtomicInteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day9_Locks.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9_Locks.Client" />
+      <module name="lld-module-may23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day9_Locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day9_Synchronised.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9_Synchronised.Client" />
+      <module name="lld-module-may23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day9_Synchronised.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day9_SynchronizedMethod.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9_SynchronizedMethod.Client" />
+      <module name="lld-module-may23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day9_SynchronizedMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day10_AtomicInteger.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Day9_SynchronizedMethod.Client" />
+        <item itemvalue="Application.Day9_Synchronised.Client" />
+        <item itemvalue="Application.Day9_Locks.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bd9b620-a04e-4a9c-80a6-0d4aca0265bd" name="Changes" comment="" />
+      <created>1684772511765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684772511765</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1687543687554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687543687554</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ok">
+      <created>1687591708809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687591708809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day9_commit">
+      <created>1687639169746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687639169746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <MESSAGE value="day9_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="day9_commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day2_accessmodifiers/Client.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day2_constructors/Client.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day4_MethodOverloading/Client.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day8_Callable_mergesort/MergeSorter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
