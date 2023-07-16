@@ -1,0 +1,5 @@
+package Day16_Design_Pattern.StructuralDesign.Adapter;
+
+public class YesBankAPI {
+
+}
